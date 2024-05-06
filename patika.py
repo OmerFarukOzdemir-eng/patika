@@ -1,2 +1,2 @@
 def patika():
-    print("hello")
+    print("Merhaba ben ömer faruk bu da benim projem")
